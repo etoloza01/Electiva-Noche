@@ -1,1 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Botón de Alerta</title>
+</head>
+<body>
 
+<button onclick="mostrarAlerta()">Haz clic aquí</button>
+
+<script>
+  function mostrarAlerta() {
+    alert("¡Hola! Este es un mensaje de alerta 🚀");
+  }
+</script>
+
+</body>
+</html>
